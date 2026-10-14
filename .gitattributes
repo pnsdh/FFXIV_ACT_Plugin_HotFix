@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.7z binary
+*.zip binary
+*.dll binary
