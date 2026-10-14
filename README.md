@@ -17,7 +17,7 @@
 2. 플러그인 폴더를 엽니다.
    해루봇: `C:\Program Files (x86)\Advanced Combat Tracker\Plugins\FFXIV_ACT_Plugin_KR`
 3. 원래 파일을 다른 곳에 백업합니다.
-4. 받은 파일을 넣습니다.
+4. 받은 zip 을 풀어 파일을 넣습니다.
    - `FFXIV_ACT_Plugin.dll` 덮어쓰기
    - `deucalion-*.distrib.dll` 넣고, 옛 `deucalion-*.dll` 은 지우기
    - `OverlayPlugin\opcodes.jsonc` 가 있으면 `Plugins\OverlayPlugin\resources\` 에 덮어쓰기
